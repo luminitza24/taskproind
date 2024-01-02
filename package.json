@@ -1,9 +1,10 @@
 {
-  "name": "react-homework-template",
+  "name": "taskpro",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-homework-template/",
+  "homepage": "https://github.com/luminitza24/taskproind",
   "dependencies": {
+    "@callstack/react-theme-provider": "^3.0.9",
     "@reduxjs/toolkit": "^2.0.1",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
